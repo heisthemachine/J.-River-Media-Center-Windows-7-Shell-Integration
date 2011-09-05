@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\bin\Release\VistaBridgeLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\bin\Release\VistaBridgeLibrary.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\VistaBridgeLibrary_MarkupCompile.cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\VistaBridgeLibrary_MarkupCompile.lref
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\themes\Generic.baml
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\VistaBridgeLibrary.g.resources
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\Microsoft.SDK.Samples.VistaBridge.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\vistabridgelibrary.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\VistaBridgeLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\vistabridgelibrary\obj\Release\VistaBridgeLibrary.pdb

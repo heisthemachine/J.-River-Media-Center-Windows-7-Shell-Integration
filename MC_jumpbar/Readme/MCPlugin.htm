@@ -1,0 +1,61 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body bgcolor="white" style="font: caption">
+        <h1>
+        <img alt="MC Logo" src="smflogo.jpg" style="background-color: paleturquoise" />
+            <span style="font-family: Arial">Media Center 12 C# Plugin Template</span></h1>
+        <p>
+            by: Paul Sinnema<span style="font-family: Arial"></span></p>
+        <span style="font-family: Arial"></span>
+	<hr />
+        <p>
+            Welcome to the Media Center 12 C# Plugin template.</p>
+        <h2>
+            What do you need?</h2>
+        <ol>
+            <li>.NET Framework v2.0.50727 or higher.&nbsp;</li>
+            <li>Media Center 12.0.307 or higher.</li>
+            <li>InnoSetup v5.1.11 or higher (<a href="http://www.innosetup.com">http://www.innosetup.com</a>)</li>
+        </ol>
+        <h2>
+            Necessary changes!</h2>
+        <ul>
+            <li>Right click on the 'MainInterface.cs' and choose 'View Code'. </li>
+            <li>Expand the 'Interop Program ID Registration' region and change the ProgId-String
+                to your
+                unique Plugin Name:<br />
+                <br /><img alt="Interop Settings" src="InteropSettings.jpg" /></li>
+            <li>
+                Double click on the 'Installation Script.iss' in the Installation Directory in the
+                Solution Explorer. </li>
+            <li>The Inno Setup Compiler will open. </li>
+            <li>Change the following line to contain the same unique Plugin Name:<br />
+                <br /><img alt="Inno Setup Script Change" src="InnoSetupScript.jpg" />&nbsp; </li>
+        </ul>
+        <h2>
+            Installation into MC12.</h2>
+        <ul>
+            <li>In Visual Studio set the Project Type to 'Release'.<br />
+                <br /><img alt="Release" src="VSRelease.jpg" />
+            </li>
+            <li>Press F6 to Build the Project.</li>
+            <li>The destination for the Release Build for this project is set to "..\Installation\Build
+                Files". That's where the DLL will be written to. This is also the location the Inno
+                Setup Compiler will look for your installation files. If you need any other DLL's
+                or installation files for the final version, this is the place to copy them to.</li>
+            <li>In this Project File the default for opening the ''Installation Script.iss' is InnoSetup.
+                A double-click on the file will automatically start the Inno Setup Compiler.<br />
+                <br /><img alt="Inno Setup Compiler" src="InnoSetup.jpg" />
+            </li>
+            <li>In the Inno Setup Compiler press F9 to compile and run the Script.</li>
+            <li>Start Media Center 12 and voila a (still empty) plugin should be started.<br />
+                <br /><img alt="MC With Template" src="mCWithTemplate.jpg" />
+            </li>
+        </ul>
+        <p>
+            &nbsp;</p>
+	</body>
+</html>

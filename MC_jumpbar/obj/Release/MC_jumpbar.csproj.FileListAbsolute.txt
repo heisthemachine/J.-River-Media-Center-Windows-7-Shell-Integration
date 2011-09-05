@@ -1,0 +1,20 @@
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\MC_jumpbar.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\MC_jumpbar.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\VistaBridgeLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\Windows7.DesktopIntegration.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\Interop.MediaCenter.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\Interop.MediaCenter.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\MC_jumpbar.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\MC_CSPlugin_Test.MainInterface.resources
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\MC_Jumpbar.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\MC_jumpbar.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\MC_jumpbar.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\obj\Release\MC_jumpbar.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\Windows7.DesktopIntegration.Registration.exe
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\Windows7.DesktopIntegration.Registration.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\VistaBridgeLibrary.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\VistaBridgeLibrary.xml
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\Windows7.DesktopIntegration.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\Windows7.DesktopIntegration.xml
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\MC_jumpbar\Installation\Build Files\MC_jumpbar.dll.config

@@ -1,0 +1,12 @@
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\bin\Release\Windows7.DesktopIntegration.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\bin\Release\Windows7.DesktopIntegration.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\bin\Release\VistaBridgeLibrary.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\bin\Release\Windows7.DesktopIntegration.Registration.exe
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\bin\Release\Windows7.DesktopIntegration.Registration.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\bin\Release\VistaBridgeLibrary.pdb
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\bin\Release\VistaBridgeLibrary.xml
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\obj\Release\Windows7.DesktopIntegration.Properties.Resources.resources
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\obj\Release\Windows7.DesktopIntegration.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\obj\Release\Windows7.DesktopIntegration.dll
+D:\Documents\Visual Studio 2008\Projects\MC_jumpbar\Windows7.DesktopIntegration\obj\Release\Windows7.DesktopIntegration.pdb
